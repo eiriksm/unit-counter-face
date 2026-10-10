@@ -1,0 +1,8 @@
+{
+    "name": "eiriksm/unit-counter-face",
+    "description": "Second Movement watch face that counts alcohol units and estimates blood alcohol content",
+    "license": "MIT",
+    "require": {
+        "eiriksm/bac.c": "dev-main"
+    }
+}
